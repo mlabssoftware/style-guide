@@ -8,8 +8,6 @@ detectors:
   ClassVariable:
     enabled: true
     exclude: []
-  PrimaDonnaMethod:
-    enabled: false
   ControlParameter:
     enabled: true
     exclude: []
